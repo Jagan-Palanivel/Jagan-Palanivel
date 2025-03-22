@@ -19,10 +19,6 @@
 <br/>-Advanced Azure services
 <br/>-Solid Principles
 
-<br/>👨‍💻 What I’m Working On:
-
-<br/>-Building modern web applications using .NET
-<br/>-Exploring AI & automation in development
 
 <br/>💬 Let's Connect!
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jagan-p-874300213/)
