@@ -1,16 +1,30 @@
-## Hi there 👋
+## 👋 Hi there! I'm **Jagan**
 
-<!--
-**Jagan-Palanivel/Jagan-Palanivel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+  <br/>🚀 About Me:
+<br/>  I'm a software developer specializing in C# and .NET, eager to build scalable, efficient, and user-friendly applications. I love learning and implementing modern technologies to improve development workflows and create innovative solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>💡 Tech Stack & Interests:
+
+<br/>🌐 Languages: C#, SQL
+<br/> 🏗 Frameworks: .NET Core, ASP.NET, Entity Framework
+<br/> ☁ Cloud & DevOps: Azure, GitHub Actions
+<br/>🗄 Databases: SQL Server
+<br/>🛠 Other Tools: Git, Visual Studio, Postman
+
+<br/>📚 Currently Learning:
+
+<br/>-Blazor & MAUI for cross-platform development
+<br/>-Microservices architecture
+<br/>-Advanced Azure services
+<br/>-Solid Principles
+
+<br/>👨‍💻 What I’m Working On:
+
+<br/>-Building modern web applications using .NET
+<br/>-Exploring AI & automation in development
+
+<br/>💬 Let's Connect!
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jagan-p-874300213/)
+<br/>📧 positiveplus11@gmail.com
+
